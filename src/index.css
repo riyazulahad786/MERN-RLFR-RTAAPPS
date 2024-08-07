@@ -1,0 +1,22 @@
+.register_form{
+    width: 400px;
+    padding: 10px 20px;
+    /* box-shadow: 0px,0px,9px rgba(128, 126, 126, 0.1); */
+}
+.register_wrapper{
+    height: 100vh;
+}
+.login_form{
+    width: 400px;
+    padding: 10px 20px;
+}
+.login_wrapper{
+    height: 100vh;
+}
+.forgotPassword_wrapper{
+    height: 100vh;
+}
+.forgotPassword_form{
+    width:400px;
+    padding: 10px 20px;
+}
